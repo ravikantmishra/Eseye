@@ -31,10 +31,6 @@
                             <td> <input type="password" name="password"></td> 
                         </tr> 
                         <tr> 
-                            <td>Confirm Password </td>
-                            <td><input type="password" name="cpass"></td> 
-                        </tr> 
-                        <tr> 
                             <td><input id="button" type="submit" name="submit" value="Sign-Up"></td> 
                         </tr>                         
                     </table> 
